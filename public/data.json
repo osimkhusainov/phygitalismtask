@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "FileName.txt",
+      "type": "file",
+      "time": "15.10.2020 14:45"
+    },
+    {
+      "name": "File.fig",
+      "type": "folder",
+      "time": "15.10.2020 14:45"
+    }
+  ]
+}
